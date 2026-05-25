@@ -90,6 +90,6 @@ Example response:
 
 * Spring Boot (Web starter)
 * LangChain4j (Java SDK for LLM chains)
-* A valid Google Gemini API Key  with access to **Gemini API**
+* A valid Google Gemini API Key
 
 
